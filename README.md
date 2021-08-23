@@ -4,6 +4,7 @@ Install the necessary dependencies:
   <li>pip install numpy</li>
   <li>pip install matplotlib</li>
   <li>pip install pythonnet</li>
+  <li>pip install jupyterlab</li>
 </ul>
 For ThermalFace.py:
 <ul>
