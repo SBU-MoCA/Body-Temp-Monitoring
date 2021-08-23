@@ -4,6 +4,8 @@ Run using "thermal-face" Conda environment
 This program uses a TensorflowLite model to inference a bounding box on a live video feed and draws a
 circle around the brighest pixel on the face.
 For more info about how TensorflowLite works, see this page: https://www.tensorflow.org/lite/guide/python
+
+This is based on Thermal Face: https://github.com/maxbbraun/thermal-face
 """
 
 import tflite_runtime.interpreter as tflite
